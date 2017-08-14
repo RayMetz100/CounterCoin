@@ -35,7 +35,7 @@ Profit potential is also defined in it's own section.
 
 ### Profit potential
 #### Shopkeeper
-- The shopkeeper can charge whatever they want including transaction fees and favorable exchange margins.
+- The shopkeeper can charge whatever they want including transaction fees and favorable exchange margins.  The basic exchange rate software on the customer PC can have customizable fees and exchange rates.  Ultimately it's up to the shopkeeper to transfer as many crypto currency as they wish and exchange as much cash as they wish.
 #### Computer Service Tech
 - A computer tech with enough knowledge to understand this page, can charge what they want to build, and install the equipment.
 - The Computer tech can make arrangements with the shopkeeper for ongoing profit sharing and service.  It would be based on trust since there is nothing in the software to enforce or tally the use.
