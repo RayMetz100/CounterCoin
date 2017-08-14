@@ -13,10 +13,10 @@ Profit potential is also defined in it's own section.
 - Need to find a Raspberry Pi compatible printer that prints QR codes.  $90?
 - This should be under $100 and work with a single push button.
 - No screen.  If we find key software for multiple coins, we can have multiple buttons.
-- If Raspberry Pi 3 doesn't work, we can use a $179 Win10 PC intead.  I already have this working MINIX NEO Z83-4 http://minix.com.hk/en/products/neo-z83-4 It requires a monitor, keyboard, mouse which bumps the cost to $250 over the Raspberry Pi
+- If Raspberry Pi 3 doesn't work, we can use a $179 Win10 PC instead.  I already have this working MINIX NEO Z83-4 http://minix.com.hk/en/products/neo-z83-4 It requires a monitor, keyboard, mouse which bumps the cost to $250 over the Raspberry Pi
 - Need to ensure security in open source.  Any scripts or software should immediately reboot after key is printed.
-- Need to make sign explsining risk to using shop generated private keys.
-- It's open source, so any software engineer can modify and steal private keys if they wish.  Shop owners will need to understand risk and trust first, then customers will have to have trust with shopowners.
+- Need to make sign explaining risk to using shop generated private keys.
+- It's open source, so any software engineer can modify and steal private keys if they wish.  Shop owners will need to understand risk and trust first, then customers will have to have trust with shop owners.
 - Customers should be able to make this device at home and use their own rather than shopkeeper device.
 
 ### Customer Web PC
@@ -35,7 +35,7 @@ Profit potential is also defined in it's own section.
 
 ### Profit potential
 #### Shopkeeper
-- The shopkeeper can charge whatever they want including transaction fees and favorable exchange margins.  The basic exchange rate software on the customer PC can have customizable fees and exchange rates.  Ultimately it's up to the shopkeeper to transfer as many crypto currency as they wish and exchange as much cash as they wish.
+- The shopkeeper can charge whatever they want including transaction fees and favorable exchange margins.  The basic exchange rate software on the customer PC can have customizable fees and exchange rates.  Ultimately, it's up to the shopkeeper to transfer as many crypto currency as they wish and exchange as much cash as they wish.
 #### Computer Service Tech
 - A computer tech with enough knowledge to understand this page, can charge what they want to build, and install the equipment.
 - The Computer tech can make arrangements with the shopkeeper for ongoing profit sharing and service.  It would be based on trust since there is nothing in the software to enforce or tally the use.
