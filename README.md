@@ -7,7 +7,7 @@ There are 3 separate parts.
 3. Shop owner's existing PC.  $50 QR scanner only.
 
 == Private Key Printer ==
-Based on $35 Raspberry Pi 3
+* Based on $35 Raspberry Pi 3
 I found a free Linux Private key generator tool, https://github.com/grondilu/bitcoin-bash-tools , that might work.
 Need to find a Raspberry Pi compatible printer that prints QR codes.  $90?
 This should be under $100 and work with a single push button.
