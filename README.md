@@ -5,6 +5,7 @@ There are 3 separate parts.
 1. A $100 paper wallet private key printer, with no memory and not connected to the internet.
 2. A $400 customer internet PC.
 3. Shop owner's existing PC.  $50 QR scanner only.
+Profit potential is also defined in it's own section.
 
 ### Private Key Printer
 - Based on $35 Raspberry Pi 3
@@ -31,3 +32,12 @@ There are 3 separate parts.
 - No custom software.  
 - The only hardware would be a $50 QR scanner.
 - Need to find or write training materials.  Find links to the best existing training for CoinBase for instance. 
+
+### Profit potential
+#### Shopkeeper
+- The shopkeeper can charge whatever they want including transaction fees and favorable exchange margins.
+#### Computer Service Tech
+- A computer tech with enough knowledge to understand this page, can charge what they want to build, and install the equipment.
+- The Computer tech can make arrangements with the shopkeeper for ongoing profit sharing and service.  It would be based on trust since there is nothing in the software to enforce or tally the use.
+#### Software developer, designer
+- No profit potential that I can think of.  I want to spend minimal effort here, but this is needed to get to the Shopkeeper and Service Tech income.
